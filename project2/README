@@ -1,0 +1,32 @@
+I wrote a test python program using the Twitter API and the tweepy library. 
+This program is to fetch the profile data and the five most recent tweets of my favorite soccer team Bayern Munich. 
+The python program test results are listed below, and they show that my account authentications are working correctly. 
+
+
+Python program printout: 
+Screen Name: FCBayern
+Location: Säbener Straße, München
+Created on: 2012-08-22 07:10:46
+Followers count: 5685521
+Friends count: 46
+Listed count: 7612
+Friends count: 46
+Favorites count: 9919
+Account language: None
+ℹ️ Der #FCBayern hat den Vertrag von Torwart Christian #Früchtl bis 2023 verlängert. Malik #Tillman unterschrieb ei… https://t.co/i9bd42q2rF
+
+#Anzeige 📹 𝗙𝗿𝗼𝗺 𝗗𝗿𝗲𝗮𝗺 𝘁𝗼 𝗧𝗲𝗮𝗺 
+
+Die 3️⃣. Episode des #FCBayernWorldSquad jetzt LIVE auf YouTube:… https://t.co/odshWjpxEv
+
+Heimspiel-Auftakt in der @ChampionsLeague am Mittwoch Abend! 🔥
+
+Jetzt Tickets gegen den FC Dynamo Kiew sichern:… https://t.co/O2hxIJN7B0
+
+Schön, dich wieder auf dem Platz zu sehen, King! 😍
+
+#MiaSanMia #FCBayern https://t.co/kbzTuMc3Xl
+
+Am Freitagabend eröffnet der #FCBayern mit dem Duell bei der SpVgg Greuther Fürth den 6. #Bundesliga-Spieltag. 💪
+
+📊… https://t.co/QmzWObQDp7
