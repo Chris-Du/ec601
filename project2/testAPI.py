@@ -18,6 +18,7 @@ def get_all_tweets(screen_name):
     api = tweepy.API(auth)
 
     usr = api.get_user(screen_name)
+    stat = api.user_timeline(screen_name, count=5)
 
     print("Screen Name: " + usr.screen_name)
     print("Location: " + str(usr.location))
@@ -29,6 +30,8 @@ def get_all_tweets(screen_name):
     print("Favorites count: " + str(usr.favourites_count))
     print("Account language: " + str(usr.lang))
 
+    for i in stat:
+        print(i.text, end = "\n\n")
 
 if __name__ == "__main__":
     get_all_tweets("@FCBayern")
