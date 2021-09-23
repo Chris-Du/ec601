@@ -1,4 +1,4 @@
-I wrote a test python program using the Twitter API and the tweepy library. 
+I wrote a test python program using the Twitter API and the tweepy library. I tested using the api.user_timeline and api.get_user module from tweepy. 
 This program is to fetch the profile data and the five most recent tweets of my favorite soccer team Bayern Munich. 
 The python program test results are listed below, and they show that my account authentications are working correctly. 
 
