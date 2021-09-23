@@ -10,7 +10,7 @@ consumer_secret = ""
 access_key = ""
 access_secret = ""
 
-def get_all_tweets(screen_name):
+def get_data_tweet(screen_name):
     
     #authorize twitter, initialize tweepy
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -34,4 +34,4 @@ def get_all_tweets(screen_name):
         print(i.text, end = "\n\n")
 
 if __name__ == "__main__":
-    get_all_tweets("@FCBayern")
+    get_data_tweet("@FCBayern")
