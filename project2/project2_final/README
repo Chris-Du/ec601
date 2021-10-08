@@ -1,0 +1,40 @@
+For the project 2, I wrote a python script to fetch the tweets from my favorite soccer teams and players. In this project, I used my favorite soccer team FC Bayern as an example.
+The program will fetch the 5 most recent tweets from FC Bayern's official Twitter account, and analyze the sentiment score of each tweet.
+The follow examples are the outputs of the program. The program will fetch the tweets from an account, and displays the sentiment scores below each tweet. 
+If the scores are closer to 0, it means that the tweet has neutral sentiment. 
+If the scores are greater than 0, it means that the tweet has positive sentiment. 
+If the scores are less than 0, it means that the tweet has negative sentiment. 
+
+Screen Name: FCBayern
+Location: Säbener Straße, München
+Created on: 2012-08-22 07:10:46
+Followers count: 5711395
+Friends count: 46
+Listed count: 7639
+Friends count: 46
+Favorites count: 9949
+Account language: None
+Text: #Anzeige | JETZT LIVE! 🔴
+
+⏱️ 𝙁𝙄𝙉𝘼𝙇 𝙃𝙊𝙐𝙍𝙎 - Episode 5 des #FCBayernWorldSquad 🎬
+
+#MiaSanMia
+Sentiment: 0.30000001192092896, 1.399999976158142
+Text: Der FC Bayern München ist mit dem „Ehrenpreis Deutscher Fußball Botschafter 2021“ ausgezeichnet worden. 
+
+Weitere Informationen. ⬇
+Sentiment: 0.30000001192092896, 1.0
+Text: This #Robbéry connection! 🥰
+
+#MiaSanMia #FCBayern @ArjenRobben @FranckRibery https://t.co/mj7bit03Tw
+Sentiment: 0.0, 1.2000000476837158
+Text: Der deutsche Fußball trauert um Rainer Holzschuh, den langjährigen Herausgeber des „kicker“, der in der Nacht zum D… https://t.co/cUl5pp67J4
+Sentiment: 0.30000001192092896, 0.30000001192092896
+Text: 1. Nemanja #Motika ✂️
+2. @JamalMusiala 🤩
+3. Lina #Magull 🤯
+4. @leroy_sane 🎯
+5. @SergeGnabry 🚀
+
+🗳 Jetzt für euer "𝗧𝗼… https://t.co/lvmNpKooVD
+Sentiment: 0.5, 1.0
