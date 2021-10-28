@@ -1,0 +1,54 @@
+Based on the project 2, I added two features onto my project. One being the error handling, which returns an error message, if the user enters an incorrect Twitter account.
+Output: 
+Whoops! Something went wrong here. The error code is [{'code': 50, 'message': 'User not found.'}]
+
+The second feature I had added to the project is to show the runtime at the end of the output. 
+Output:
+Screen Name: FCBayern
+Location: Säbener Straße, München
+Created on: 2012-08-22 07:10:46
+Followers count: 5739700
+Friends count: 46
+Listed count: 7652
+Friends count: 46
+Favorites count: 10007
+Account language: None
+Text: 🗣️ @lewy_official: "Es ist schwer zu verstehen, was gestern passiert ist. Niederlagen schmerzen, nun müssen wir dar… https://t.co/je3pDY73Kj
+Sentiment: 0.0, 0.20000000298023224
+Neutral attitude
+Text: 🗣️ @Manuel_Neuer: "Schwierig zu beschreiben, was gestern in Gladbach passiert ist. Das darf uns so nicht passieren.… https://t.co/u0uhbrrcMd
+Sentiment: 0.0, 0.699999988079071
+Neutral attitude
+Text: 🗣️ @esmuellert_: "Ich bin sprachlos. Das war definitiv nicht „Bayern-Like“ und wir müssen uns bei allen Fans und Un… https://t.co/uohHFPUDlD
+Sentiment: -0.20000000298023224, 0.5
+Negative attitude
+Text: Die Pressekonferenz nach dem Pokal-Aus. 
+
+🔗 https://t.co/17ASOL9s8V
+Sentiment: 0.30000001192092896, 0.699999988079071
+Positive attitude
+Text: Wir scheiden im DFB-Pokal aus. https://t.co/yIhaALbSGs
+Sentiment: 0.30000001192092896, 0.6000000238418579
+Positive attitude
+Text: Goretzka muss angeschlagen ausgewechselt werden. Für ihn ins Spiel kommt Corentin Tolisso. 
+
+#BMGFCB | 5:0 | 64'
+Sentiment: 0.30000001192092896, 0.8999999761581421
+Positive attitude
+Text: 5:0.
+Sentiment: 0.20000000298023224, 0.20000000298023224
+Positive attitude
+Text: Süle und Coman kommen für Upamecano und Davies ins Spiel. 
+
+#BMGFCB | 3:0 | 55'
+Sentiment: 0.30000001192092896, 0.6000000238418579
+Positive attitude
+Text: 4:0 für Gladbach.
+Sentiment: 0.5, 0.5
+Positive attitude
+Text: RT @MilesWattson: @FCBayern https://t.co/zNXAtThq3F
+Sentiment: 0.0, 0.0
+Neutral attitude
+
+run time: 0:00:02.680458
+
